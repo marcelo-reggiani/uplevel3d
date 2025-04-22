@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/uplevel3d/static/css/main.722eafe8.css",
-    "main.js": "/uplevel3d/static/js/main.b1075258.js",
+    "main.js": "/uplevel3d/static/js/main.55508677.js",
     "static/js/660.20d22993.chunk.js": "/uplevel3d/static/js/660.20d22993.chunk.js",
     "static/js/990.acb3fec2.chunk.js": "/uplevel3d/static/js/990.acb3fec2.chunk.js",
     "static/js/264.be18a9f5.chunk.js": "/uplevel3d/static/js/264.be18a9f5.chunk.js",
@@ -12,7 +12,7 @@
     "static/js/679.8f92f817.chunk.js": "/uplevel3d/static/js/679.8f92f817.chunk.js",
     "index.html": "/uplevel3d/index.html",
     "main.722eafe8.css.map": "/uplevel3d/static/css/main.722eafe8.css.map",
-    "main.b1075258.js.map": "/uplevel3d/static/js/main.b1075258.js.map",
+    "main.55508677.js.map": "/uplevel3d/static/js/main.55508677.js.map",
     "660.20d22993.chunk.js.map": "/uplevel3d/static/js/660.20d22993.chunk.js.map",
     "990.acb3fec2.chunk.js.map": "/uplevel3d/static/js/990.acb3fec2.chunk.js.map",
     "264.be18a9f5.chunk.js.map": "/uplevel3d/static/js/264.be18a9f5.chunk.js.map",
@@ -24,6 +24,6 @@
   },
   "entrypoints": [
     "static/css/main.722eafe8.css",
-    "static/js/main.b1075258.js"
+    "static/js/main.55508677.js"
   ]
 }
